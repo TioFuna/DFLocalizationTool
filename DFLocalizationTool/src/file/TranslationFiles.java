@@ -133,8 +133,10 @@ public class TranslationFiles extends StartApp {
 						i++;
 						
 						Charset charsetOriginal = null;
-						if(fileLines.get(i).startsWith(POFiles.codeID)){
-							charsetOriginal = Charset.forName(fileLines.get(i).substring(POFiles.codeID.length()));
+						if (i < fileLines.size()) {
+							if(fileLines.get(i).startsWith(POFiles.codeID)){
+								charsetOriginal = Charset.forName(fileLines.get(i).substring(POFiles.codeID.length()));
+							}
 						}
 						
 						msgid = msgid.replaceAll("\"", "");					// remove quotes "

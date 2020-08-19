@@ -2,26 +2,26 @@
 
 A Localization Tool for the game Dwarf Fortress.
 
-![DF Localization Tool](http://s20.postimg.org/bn7rrrgm5/DFLocalization_Tool.jpg)
+![DF Localization Tool](https://i.ibb.co/jZQ7Phm/DFLocalization-Tool.jpg)
 
 Made in Java Eclipse/Swing.
 
--
+---
 
 :warning: **Disclaimer**
 
 _This program will change some files from the original game, and can conprometer proper functioning.
 Make backups of your game and save games is recommended._
 
--
+---
 
 ## Features
 * **Translate Files**
- * translate txt files from original game
- * use of `*.po` files to replace texts
+  * translate txt files from original game
+  * use of `*.po` files to replace texts
 * **Create PO Files**
- * create a `PlainText.txt` file with codes and texts to be translated
- * for use in sites like [Transifex - Dwarf Fortress](https://www.transifex.com/dwarf-fortress-translation/dwarf-fortress/dashboard/)
+  * create a `PlainText.txt` file with codes and texts to be translated
+  * for use in sites like [Transifex - Dwarf Fortress](https://www.transifex.com/dwarf-fortress-translation/dwarf-fortress/dashboard/)
 
 ## Latest Release
 

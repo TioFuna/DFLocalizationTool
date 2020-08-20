@@ -39,4 +39,4 @@ For more languages and code pages, open a issue to include them.
 
 If you want to report in forum threads, remember to identify the use of this modification.
 
-Dwarf Fortress Forum thread: [Dwarf Fortress localization patch] (http://www.bay12forums.com/smf/index.php?topic=108721.msg6845335#msg6845335)
+Dwarf Fortress Forum thread: [Dwarf Fortress localization patch](http://www.bay12forums.com/smf/index.php?topic=108721.msg6845335#msg6845335)
